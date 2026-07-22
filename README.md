@@ -1,4 +1,4 @@
-This repository contains the analysis code and notebooks developed during my Summer 2026 internship at the University of Pennsylvania for the CosmicWatch muon detector project.
+This repository contains the code and notebooks worked on during my Summer 2026 internship at the University of Pennsylvania for the CosmicWatch muon detector.
 The notebook uses Python plus numpy, pandas, matplotlib, scipy, and Jupyter
 
 Acknowledgments
@@ -6,14 +6,14 @@ This work builds upon the original code provided by the CosmicWatch project. The
 
 
 Project Overview:
-The goal of this project was to develop a reproducible workflow for the CosmicWatch detector.
+The goal of this project was to develop a reproducible workflow for the detector.
 
 The notebook and analysis include:
-- Importing and processing CosmicWatch data files
+- Processing CosmicWatch data 
 - Calculating coincidence rates
 - Calculating uncertainties using Poisson statistics
 - Analyzing detector orientations
-- Approximating solid angle 
+- Approximating solid angles
 - Figures with appropriate error analysis
 
 
