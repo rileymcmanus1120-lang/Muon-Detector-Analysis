@@ -3,6 +3,7 @@ The notebook uses Python plus numpy, pandas, matplotlib, scipy, and Jupyter
 
 Acknowledgments
 This work builds upon the original code provided by the CosmicWatch project. The scripts and files were adapted from the CosmicWatch repository and have been modified for student use during a research internship. Additional edits, documentation, and analysis were created to have a reproducible notebook for student use.
+https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v3X?tab=readme-ov-file
 
 
 Project Overview:
