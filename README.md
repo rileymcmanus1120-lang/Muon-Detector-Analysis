@@ -5,6 +5,12 @@ Acknowledgments
 This work builds upon the original code provided by the CosmicWatch project. The scripts and files were adapted from the CosmicWatch repository and have been modified for student use during a research internship. Additional edits, documentation, and analysis were created to have a reproducible notebook for student use.
 https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v3X?tab=readme-ov-file
 
+The original project is licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License. These modifications are
+intended for educational and research purposes only and follow the original
+licensing restrictions.
+
+
 
 Project Overview:
 The goal of this project was to develop a reproducible workflow for the detector.
