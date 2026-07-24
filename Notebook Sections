@@ -1,0 +1,31 @@
+Notebook Sections
+
+Section 1: `CW_data1.txt` and `CW_data1lab.txt`
+Load and clean the data, establish coincidence mode, and compare the reference datasets collected at home and in the lab.
+
+Section 2: Lead Shielding Experiment
+Compare measurements with and without lead shielding while keeping the detector separation 2 inches.
+
+Section 3: `CW_datao1.txt`
+Load, clean, and visualize the Orientation 1 dataset.
+
+Section 4: `CW_datao2.txt`
+Load, clean, and visualize the Orientation 2 dataset.
+
+Section 5: Comparison between O0, 01, and O2.
+
+Section 6: `CW_datao3.txt`
+Load, clean, and visualize the Orientation 3 dataset.
+
+Section 7: Coincidence Rate Comparison
+Compare the coincidence rates measured for each detector orientation.
+
+Section 8: Check that the coincidence rate stays consistent throughout each run.
+
+Section 9: Solid Angle Acceptance
+Calculate the approximate solid angle  and compare it to coincidence rates.
+
+Section 10: Face-up Orientation Analysis
+Compare coincidence rates and solid angles while keeping the detector faces in the same orientation.
+
+Section 11: Future Experiments
