@@ -1,0 +1,10 @@
+Detector Orientations:
+
+- Orientation 0 (O0): Detectors stacked directly on top of each other with faces up.
+    Note: This recording was done at home and in the lab as reference data for comparing runs in different locations.
+- Orientation 1 (O1): Detectors stacked with the detector faces oriented sideways.
+- Orientation 2 (O2): Detectors facing sideways with a 3.75-inch (9.53 cm) block between them.
+- Orientation 3 (O3): Detectors facing sideways with a 6-inch (15.24 cm) block between them.
+- Lead Shielding: Orientation 0 with an 8 × 4 × 2 inch lead block between the detectors. 
+- Lead Block Stand-in: Orientation 0 with a 2-inch non-lead block  as a control.
+- Orientation 0 Extra: Orientation 0 was also recorded with 2 more separations:3.5 inches (8.89 cm) and 12 cm.
